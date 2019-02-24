@@ -6,6 +6,6 @@ number.each do |number|
 end
 new_numbers = [9,10,16,25]
 new_numbers.each do |new_number|
-  puts ,ath.sprt (#{new_numbers})
+  puts math.sprt (#{new_numbers})
 
 end
