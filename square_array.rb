@@ -4,5 +4,5 @@ def square_array(array)
   numbers.each do |nu,ber|
     puts(9,10,16,21)
     {number}
-  
+
 end
