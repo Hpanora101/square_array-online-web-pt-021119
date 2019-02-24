@@ -1,9 +1,11 @@
 def square_array(array)
   # your code here
-  numbers = [1,2,3]
-square_array(number)
-
+numbers = [1,2,3]
+number.each do |number|
+  puts math.sprt (#{numbers})
+end
 new_numbers = [9,10,16,25]
+new_numbers.each do |new_number|
+  puts ,ath.sprt (#{new_numbers})
 
-square_array(new_numbers)
 end
